@@ -1,9 +1,7 @@
 # Python Code Examples
 In this repository, you can find the code examples for my YouTube course (**Python for Beginners**).
 
-To learn the fundamentals of Python...
-I invite you to take the course on my YouTube channel: 
-[Coding with Estefania](https://www.youtube.com/codingwithestefania). 💻
+If your goal is to learn the fundamentals of Python, I invite you to take the course on my YouTube channel: [Coding with Estefania](https://www.youtube.com/codingwithestefania) 💻
 
 ## Topics
 
